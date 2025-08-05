@@ -23,4 +23,4 @@ Most HackerRank problems provide their own input/output handling.
 So, my solutions here mainly focus on the **core logic inside the function** (not full `main()` programs).
 ---
 
-*This repo reflects my real progress and effort — no copy-paste, no shortcuts.*
+*This repo reflects my real progress and effort 
