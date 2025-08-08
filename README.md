@@ -1,6 +1,6 @@
-# hackerrank-c-practice
+# hackerrank-practice
 
-This repository contains my solutions to various C programming problems solved on HackerRank.
+This repository contains my solutions to various  programming problems solved on HackerRank.
 
 ### 📌 Topics Covered
 - Warmup problems
@@ -15,7 +15,7 @@ I am solving one problem per day (or more when I can) and pushing regularly to k
 - C Programming
 
 ### 🧠 Goal
-Build strong problem-solving skills in C 
+Build strong problem-solving skills 
 
 
 ### ⚠️ Note
