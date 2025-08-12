@@ -12,7 +12,7 @@ This repository contains my solutions to various  programming problems solved on
 I am solving one problem per day (or more when I can) and pushing regularly to keep track of my learning.
 
 ### 🛠️ Language Used
-- C Programming
+- C Programming,C++
 
 ### 🧠 Goal
 Build strong problem-solving skills 
