@@ -2,6 +2,7 @@
 // Source: HackerRank
 // Link: https://www.hackerrank.com/challenges/c-tutorial-basic-data-types
 // Note: Reads different data types from input and prints them in specified formats.
+
 #include <iostream>
 #include <cstdio>
 using namespace std;
